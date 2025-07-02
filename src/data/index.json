@@ -4,57 +4,57 @@
             "id": 1,
             "src": "./img/product-chain-1.png",
             "title": "Front-End",
-            "description": "In my introduction to front-end development, I learned the basic skills to create a website. My professor included some Back-end lessons; therefore, I have an introduction to Back-end development. I have learned the basic framework for creating the layout and adding styling to the site. Languages include HTML, CSS, JavaScript, and React. I am excited to learn more and apply creative touches to future projects."
+            "description": "I have hands-on experience with front-end development, building responsive and accessible websites using HTML, CSS, JavaScript, and React.js. I enjoy bringing creative UI designs to life with clean, maintainable code and have also been introduced to basic back-end principles. I'm always excited to learn new technologies and improve the user experience through design."
         },
         {
             "id": 2,
             "src": "./img/tag-1.png",
             "title": "Soft-skills",
-            "description": "The skills I am proud to display include leadership, collaboration, adaptability, and creativity. In leadership, I have directed a classroom to follow the given task. In collaboration, I often work in groups for school projects and work with other members to finish the task. In adaptability, I grew up with things on the go so I am able to adapt to any setting and willing to learn more. However, it is my creativity that truly shines. I can come up with original ideas or add a creative spin to any task, bringing a unique and innovative approach to every project."
+            "description": "My strengths include leadership, collaboration, adaptability, and creativity. I’ve led classroom environments and worked effectively in team settings during school projects. I adapt quickly to new challenges and love thinking creatively to solve problems or add unique flair to projects. I'm committed to continuous growth and open to learning from others."
         },
         {
             "id": 3,
             "src": "./img/feather-pen-2.png",
             "title": "Education",
-            "description": "In my early development learning time, I implemented it into teaching at a preschool. This certificate gave me a comprehensive understanding of child development theories, educational methodologies, and best practices for teaching young children. I gained practical experience through hands-on classroom placements and internships, allowing me to apply theoretical knowledge in real-world educational settings."
+            "description": "My background in early childhood education gave me a strong foundation in communication, empathy, and structured learning. My teaching certification and preschool experience helped me develop a deep understanding of how people learn — a skill I apply in team settings and user-focused design. This experience taught me how to translate complex concepts into clear, usable content."
         },
         {
             "id": 4,
             "src": "./img/feather-pen-1.png",
             "title": "Other skills",
-            "description": "Besides the languages used in creating websites, I am familiar with C++ and Python, and after the fall of 2024, I will gain Swift. I plan to learn mobile development and learn cybersecurity. I plan to learn how to secure sites when someone has to pay on a website. I also want to apply it to mobile development as well."
+            "description": "In addition to web development, I’ve explored C++ and Python, and I’m currently learning Swift and mobile development with SwiftUI. I’m also interested in cybersecurity and plan to specialize in secure web practices — especially where sensitive data or payments are involved. I aim to bring a security-first mindset into both web and mobile development."
         }
     ],
     "portfolio":[
         {
             "id": 1,
-            "src": "./img/project1-img.jpg",
-            "title": "Quiz app",
-            "description": "In my introduction to front-end development, we had to create a quiz app website in a group of three. I created the Quiz portion and formatted the house pages once the user finished the quiz.",
+            "src": "./img/app_store.png",
+            "title": "Task Adventure",
+            "description": "A gamified iOS app helping children with autism build routines. Features animations, XP badges, and parent/child sync.",
             "link":{
                 "text": "View in Github",
-                "url": "https://github.com/BamBopBoom/CPSC-349-Quiz-App-Project"
+                "url": "https://github.com/yhuerta805/Task-Adventure"
             }
             
         },
         {
             "id": 2,
             "src": "./img/NoReturn-img.png",
-            "title": "Text-Game",
-            "description": "In my first year of learning how to code, I created a simple text game in which you, the user, decide the fate of a character in need of your help. You are given choices, and based on what you pick, the fate of the character is in your hands.",
+            "title": "SecureChat",
+            "description": "A secure, encrypted chat app for local network communication with file sharing and emoji support.",
             "link": {
                 "text": "View in Github",
-                "url": "https://github.com/Victoriaaguz/Text-Game"
+                "url": "https://github.com/DylanWerelius/cpsc-455-secure-chat/tree/v2.0.0"
             }
         },
         {
             "id": 3,
-            "src": "./img/ottergram-img.png",
-            "title": "Ottergram",
-            "description": "My first homework assignment was to create an Instagram account of Otter images captioned with a Bee Gees song. It was very simple, but it taught me how to use HTML, CSS, and JavaScript.",
+            "src": "./img/Dreampic.png",
+            "title": "Dream Builder AI",
+            "description": "A web app that expands user-submitted dreams using natural language generation.",
             "link": {
                 "text": "View in Github",
-                "url": "https://github.com/Victoriaaguz/ottergram"
+                "url": "https://github.com/manilita/morpheusai.git"
             }
         }
         

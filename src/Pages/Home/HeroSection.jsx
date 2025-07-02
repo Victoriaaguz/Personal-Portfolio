@@ -7,12 +7,12 @@ export default function HeroSection(){
                 <div className="hero--section--content">
                     <p className="section--title">Hey I'm Victoria</p>
                     <h1 className="hero--section--title">
-                        <span className="hero--section--title--color">Web Design</span> {" "}
+                        <span className="hero--section--title--color">Web Design & Mobile</span> {" "}
                         <br/>
                         Developer
                     </h1>
                     <p className="hero--section--description">
-                    As a Front-end Developer, I specialize in creating responsive and visually appealing web interfaces using HTML, CSS, and JavaScript. I'm passionate about designing intuitive user experiences that seamlessly blend creativity and functionality. With a keen eye for detail and a dedication to staying updated with the latest industry trends, I strive to deliver high-quality solutions that exceed client expectations.
+                    👋 I am passionate Front-End Developer with a creative edge and a strong foundation in web & mobile app development. From building autism-friendly task apps to secure chat platforms, I bring ideas to life with clean, user-centered code.
                         <br/> Feel free to explore my portfolio and get in touch with me.
                     </p>
                 </div>
@@ -21,7 +21,7 @@ export default function HeroSection(){
                 Get in Touch</a>
             </div>
             <div className="hero--section--img">
-                <img src="./img/Hero-img.png" alt="Hero Section"/>
+                <img src="./img/purple-heropic.png" alt="Hero Section"/>
             </div>
         </section>
 
